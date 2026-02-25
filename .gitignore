@@ -1,5 +1,5 @@
 /node_modules/*
-# Build generado
+
 build/
 
 # Archivos de producción
